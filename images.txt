@@ -1,2 +1,1 @@
-ubuntu:24.10
-ubuntu:18.04
+postgres:15
