@@ -1,1 +1,2 @@
 postgres:15
+victoriametrics/victoria-metrics:v1.95.1
