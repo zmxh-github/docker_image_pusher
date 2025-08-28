@@ -1,3 +1,5 @@
-ghcr.io/open-webui/open-webui:main
-louislam/uptime-kuma
-adamboutcher/statping-ng
+rancher/rancher:v2.5.8
+rancher/k3s:v1.21.4-k3s1
+mysql:8.0.37
+redis:7.0.12
+nginx:1.26.3
