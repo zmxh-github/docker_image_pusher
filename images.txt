@@ -3,3 +3,4 @@ rancher/k3s:v1.21.4-k3s1
 mysql:8.0.37
 redis:7.0.12
 nginx:1.26.3
+vbkunin/itop:3.2.2-base
