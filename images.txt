@@ -4,3 +4,4 @@ mysql:8.0.37
 redis:7.0.12
 nginx:1.26.3
 vbkunin/itop:latest
+nocobase/nocobase
