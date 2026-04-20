@@ -5,3 +5,4 @@ redis:7.0.12
 nginx:1.26.3
 vbkunin/itop:latest
 nocobase/nocobase
+eclipse-temurin:8u482-b08-jre-alpine-3.22
