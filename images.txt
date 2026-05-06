@@ -7,3 +7,4 @@ vbkunin/itop:latest
 nocobase/nocobase
 eclipse-temurin:8u482-b08-jre-alpine-3.22
 slydeveloper/spring-boot-admin:latest
+nginx:trixie-perl
