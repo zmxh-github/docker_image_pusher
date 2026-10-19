@@ -12,4 +12,4 @@ apache/hertzbeat:v1.6.0
 postgres:15
 victoriametrics/victoria-metrics:v1.95.1
 dhi.io/redis:7.4
-willfarrell/autoheal:latest
+willfarrell/autoheal:1.2.0
