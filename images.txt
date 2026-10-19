@@ -1,17 +1,1 @@
-rancher/rancher:v2.5.8
-rancher/k3s:v1.21.4-k3s1
-mysql:8.0.37
-redis:7.0.12
 nginx:1.26.3
-vbkunin/itop:latest
-nocobase/nocobase
-eclipse-temurin:8u482-b08-jre-alpine-3.22
-slydeveloper/spring-boot-admin:latest
-apache/hertzbeat:v1.6.1
-apache/hertzbeat:v1.6.0
-postgres:15
-victoriametrics/victoria-metrics:v1.95.1
-dhi.io/redis:7.4
-willfarrell/autoheal:1.1.0
-willfarrell/autoheal:1.0.0
-willfarrell/autoheal:v0.7.0
